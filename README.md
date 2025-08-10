@@ -42,11 +42,11 @@ The board positions are numbered as follows:
 
 * Open a terminal/command prompt.
 
-* Compile the Java file:
+# Compile the Java file:
   
 javac Tic_Tac_Toe.java
 
-#Run the program:
+# Run the program:
 
 java Tic_Tac_Toe
 
