@@ -23,6 +23,7 @@ Enter a slot number (1 to 9) to place your mark.
 
 The board positions are numbered as follows:
 
+```
 |---|---|---|
 | 1 | 2 | 3 |
 |-----------|
@@ -30,6 +31,7 @@ The board positions are numbered as follows:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 
 * The game ends when a player wins by placing three of their marks in a horizontal, vertical, or diagonal row, or if all slots are filled resulting in a draw.
 
@@ -63,6 +65,7 @@ java Tic_Tac_Toe
 * Input handling uses Scanner with validation to prevent invalid or duplicate moves.
 
 Welcome to 3x3 tic tac toe.
+```
 |---|---|---|
 | 1 | 2 | 3 |
 |-----------|
@@ -70,8 +73,10 @@ Welcome to 3x3 tic tac toe.
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 X will play first. Enter a slot number to place X in:
 3
+```
 |---|---|---|
 | 1 | 2 | X |
 |-----------|
@@ -79,8 +84,10 @@ X will play first. Enter a slot number to place X in:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 O's turn; enter a slot number to place Oin:
 5
+```
 |---|---|---|
 | 1 | 2 | X |
 |-----------|
@@ -88,8 +95,10 @@ O's turn; enter a slot number to place Oin:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 X's turn; enter a slot number to place Xin:
 2
+```
 |---|---|---|
 | 1 | X | X |
 |-----------|
@@ -97,8 +106,10 @@ X's turn; enter a slot number to place Xin:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 O's turn; enter a slot number to place Oin:
 1
+```
 |---|---|---|
 | O | X | X |
 |-----------|
@@ -106,8 +117,10 @@ O's turn; enter a slot number to place Oin:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 X's turn; enter a slot number to place Xin:
 6
+```
 |---|---|---|
 | O | X | X |
 |-----------|
@@ -115,8 +128,10 @@ X's turn; enter a slot number to place Xin:
 |-----------|
 | 7 | 8 | 9 |
 |---|---|---|
+```
 O's turn; enter a slot number to place Oin:
 9
+```
 |---|---|---|
 | O | X | X |
 |-----------|
@@ -124,6 +139,7 @@ O's turn; enter a slot number to place Oin:
 |-----------|
 | 7 | 8 | O |
 |---|---|---|
+```
 Congratulations! O's have won! Thanks for playing.
 
 # License
